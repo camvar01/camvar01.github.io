@@ -36,6 +36,7 @@ export const PROFILE = {
   links: {
     github: "https://github.com/camvar01",
     gmail: "milo.avc@gmail.com",
+    linkedin: "https://www.linkedin.com/in/camilovar/"
 
   },
   studies: [
@@ -53,10 +54,7 @@ export const PROFILE = {
       title: "Técnico Mecánico de Maquinaria Industrial",
       institution: "Servicio Nacional de Aprendizaje SENA"
     },
-    {
-      title: "Electricidad Básica",
-      institution: "Servicio Nacional de Aprendizaje SENA"
-    },
+
     {
       title: "Análisis Exploratorio de Datos en Python",
       institution: "Servicio Nacional de Aprendizaje SENA"
