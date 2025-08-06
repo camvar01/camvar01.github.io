@@ -2,76 +2,68 @@ export const PROFILE = {
   site: {
     SEO: {
       //     more complicated description for SEO
-      title: "Tech Tim (@TechTim42) - Learn, Share and Grow ❤️",
+      title: "Camilo Vargas - Portafolio ❤️",
       description:
-        "Learn, Share and Grow ❤️ -- Software Engineer | AWS Professional | Open Source Lover  --☘️ Be more productive, Better in communicating, Contribute more to community. | Tech Tim's New Astro Portfolio",
+        "Ingeniero electrónico apasionado por el análisis de datos, telecomunicaciones y desarrollo de soluciones digitales.",
     },
   },
-  timezone: "Australia/Sydney",
-  language: "en-AU",
-  firstName: "Tim",
-  name: "Tech Tim",
-  headLine: "Learn, Share and Grow ❤️",
-  headLine2:
-    "I enjoy providing software solutions and bring ideas to life and solve real-world problems.",
-  website: "https://techtim42.com",
-  repo: "https://github.com/tim-hub/techtim-astro-bento-portfolio",
-  avatarUrl: "https://techtim42.com/techtim42.webp",
+  timezone: "America/Bogota",
+  language: "es-CO",
+  firstName: "Camilo",
+  name: "Camilo Vargas",
+  headLine: "Aprende, comparte y crece 💥",
+  headLine2: "Transformando datos e ideas en soluciones reales 🚀",
+  website: "https://camvar01.github.io",
+  repo: "https://github.com/camvar01/camvar01.github.io",
+  avatarUrl: "/Milo.png",
   shortIntros: [
-    "💻 Software/AI Engineer | Open Source Lover | Self-starter",
-    "☁️ AWS Professional | AWS Community Builder",
-    "☘️ Passionate about Dev Experience(DX) Improvement and bringing ideas to life",
-    "📈 Unprofessional Investor",
-    "🌱 Part-time blogger and unprofessional Youtuber",
-    "📚 Book reader | 🥏 Frisbee Ultimate Player | 🎲 Board Game Player",
+    "🔌 Ingeniero electrónico recién graduado",
+    "📊 Apasionado por el análisis de datos y la visualización",
+    "🌐 Entusiasta de tecnologías emergentes",
+    "🐲 Amante a la fantasía | 🎮 Pasion por los videojuegos | 🌶️ entre más picante mejor",
   ],
-  words: ["As each one has received a gift, minister it to one another"],
+  words: ["¡No te rindas sin haberlo intentado!"],
   skills: [
     "Python / Django",
     "JavaScript",
-    "Typescript",
-    "AWS",
-    "Cloud Computing",
-    "Kubernetes",
+    "html",
+    "CSS",
     "React",
     "Node.js",
-    "Postgres",
     "SQL",
-    "Astro",
+    "Git & GitHub",
   ],
   links: {
-    github: "https://github.com/tim-hub",
-    medium: "https://medium.com/@TechTim42",
-    twitter: "https://twitter.com/TechTim42",
-    bluesky: "https://bsky.app/profile/techtim.bsky.social",
-    thread: "https://www.threads.net/@techtim2024",
-    mastodon: "https://mastodon.social/@techtim42",
-    youtube: "https://www.youtube.com/@techtim42",
-    stackoverflow: "https://stackoverflow.com/users/5249708/tim",
-    devto: "https://dev.to/timhub",
-    goodreads: "",
+    github: "https://github.com/camvar01",
+    gmail: "milo.avc@gmail.com",
+
   },
   studies: [
     // studies, qualifications and certifications
-    {
-      title: "Master of Applied Computing",
-      level: "Master",
+      {
+      title: "Ingeniería Electrónica",
+      institution: "Universidad Surcolombiana",
+      level: "Grado"
     },
     {
-      title: "AWS Cloud Professional",
-      institution: "AWS",
+      title: "Seminario de grado: Profundización en redes convergentes",
+      institution: "Universidad Surcolombiana"
     },
     {
-      title: "Neo4j Certified Professional",
-      institution: "Neo4j",
+      title: "Técnico Mecánico de Maquinaria Industrial",
+      institution: "Servicio Nacional de Aprendizaje SENA"
     },
     {
-      title: "ICAgile Certified Professional",
-      institution: "ICP",
+      title: "Electricidad Básica",
+      institution: "Servicio Nacional de Aprendizaje SENA"
     },
     {
-      title: "Full Stack Observability Practitioner",
-      institution: "New Relic",
+      title: "Análisis Exploratorio de Datos en Python",
+      institution: "Servicio Nacional de Aprendizaje SENA"
     },
+    {
+      title: "Misión TIC (4 ciclos)",
+      institution: "Ministerio TIC de Colombia"
+    }
   ],
 };
