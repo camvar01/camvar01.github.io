@@ -35,7 +35,7 @@ export const PROFILE = {
   ],
   links: {
     github: "https://github.com/camvar01",
-    gmail: "milo.avc@gmail.com",
+    mail: "mailto:milo.avc@gmail.com",
     linkedin: "https://www.linkedin.com/in/camilovar/"
 
   },
