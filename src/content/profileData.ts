@@ -20,7 +20,8 @@ export const PROFILE = {
     "🔌 Ingeniero electrónico recién graduado",
     "📊 Apasionado por el análisis de datos y la visualización",
     "🌐 Entusiasta de tecnologías emergentes",
-    "🐲 Amante a la fantasía | 🎮 Pasion por los videojuegos | 🌶️ entre más picante mejor",
+    "🐲 Amante a la fantasía |🎮 Pasion por los videojuegos",
+    "🌶️ entre más picante mejor"
   ],
   words: ["¡No te rindas sin haberlo intentado!"],
   skills: [
