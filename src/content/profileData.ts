@@ -23,7 +23,7 @@ export const PROFILE = {
     "🐲 Amante a la fantasía |🎮 Pasion por los videojuegos",
     "🌶️ entre más picante mejor"
   ],
-  words: ["¡No te rindas sin haberlo intentado!"],
+  words: ["Un hombre que teme más al dolor que al fracaso está condenado a sufrir ambos."],
   skills: [
     "Python / Django",
     "JavaScript",
