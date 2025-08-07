@@ -40,7 +40,7 @@ export const PROFILE = {
 
   },
   studies: [
-    // studies, qualifications and certifications
+
       {
       title: "Ingeniería Electrónica",
       institution: "Universidad Surcolombiana",
